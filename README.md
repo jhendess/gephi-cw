@@ -1,4 +1,4 @@
-# Mavenized OpenOrd layout for gephi
+# Mavenized chinese whispers clustering for gephi
 
 This is a mavenized version of the Chinese Whispers Clustering Plugin for Gephi. You can use this plugin e.g. if you use the Gephi toolkit in your application and want to manage dependencies with maven.
 
